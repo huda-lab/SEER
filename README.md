@@ -23,3 +23,7 @@ SEER is an end-to-end Information Extraction (IE) workflow where users highlight
 * [Longer Video Demo](https://youtu.be/3V3XRchtxRs)
 * [Slides](https://www.slideshare.net/MaedaHanafi/seer-autogenerating-information-extraction-rules-from-userspecified-examples)
 
+## Repository Content
+
+This repository contains links to items related to SEER.
+The project source code is private as it contains proprietary code.
