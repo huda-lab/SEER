@@ -12,6 +12,7 @@ SEER is an end-to-end Information Extraction (IE) workflow where users highlight
 <span style="font-size:80%">Maeda F. Hanafi, Azza Abouzied, Laura Chiticariu, and Yunyao Li - CHI'2017</span>
 
 **[Demo Poster, SIGMOD 2017](http://maeda.herokuapp.com/pdf/SIGMODPoster.pdf)**
+<br/>
 **[Demo Paper, SIGMOD 2017](https://dl.acm.org/citation.cfm?id=3056443)**
 <br/>
 <span style="font-size:80%">Maeda F. Hanafi, Azza Abouzied, Laura Chiticariu, and Yunyao Li - CHI'2017</span>
